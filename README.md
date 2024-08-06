@@ -82,7 +82,7 @@ bun dev
 How to clone your project
 
 ```bash
-git clone https://github.com/jordan-ns/saas-landing-page.git
+git clone https://github.com/Jordan-NS/saas-landing-page.git
 ```
  
 <h3>Starting</h3>
