@@ -3,7 +3,8 @@
 
 <p align="center">
 
-<img src="https://i.ibb.co/B3C8v6y/Cover.png" alt="Project cover" width="900px">
+![light-saas-landing-page-hero](https://github.com/user-attachments/assets/f93c8005-4f17-4bc2-bd52-acf02136060a)
+
 </p>
  
 <h1 align="center" style="font-weight: bold;">Saas Landing Page 💻</h1>
